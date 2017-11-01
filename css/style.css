@@ -111,19 +111,19 @@ dl, dt, dd, ol, ul, li {
 }
 
 ::selection {
-	background: #1ABC9C;
+	background: #f47421;
 	color: #FFF;
 	text-shadow: none;
 }
 
 ::-moz-selection {
-	background: #1ABC9C; /* Firefox */
+	background: #f47421; /* Firefox */
 	color: #FFF;
 	text-shadow: none;
 }
 
 ::-webkit-selection {
-	background: #1ABC9C; /* Safari */
+	background: #f47421; /* Safari */
 	color: #FFF;
 	text-shadow: none;
 }
@@ -1163,7 +1163,7 @@ body.stretched #header.full-header .container {
 }
 
 #primary-menu ul li:hover > a,
-#primary-menu ul li.current > a { color: #1ABC9C; }
+#primary-menu ul li.current > a { color: #f47421; }
 
 #primary-menu > ul > li.sub-menu > a > div { }
 
@@ -11598,7 +11598,7 @@ body:not(.device-touch) #gotoTop {
 
 .stretched #gotoTop { bottom: 30px; }
 
-#gotoTop:hover { background-color: #1ABC9C; }
+#gotoTop:hover { background-color: #f47421; }
 
 
 /* ----------------------------------------------------------------
