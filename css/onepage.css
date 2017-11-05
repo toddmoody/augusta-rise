@@ -158,6 +158,11 @@ body.side-panel-left.side-push-panel.side-panel-open.stretched #header .containe
 		font-size: 21px;
 	}
 
+	.about-body-link {
+		color: #555;
+		border-bottom: 1px solid #333;
+	}
+
 	#footer-logo {
 		display: block;
 		max-width: 160px;
