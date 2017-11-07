@@ -154,8 +154,14 @@ body.side-panel-left.side-push-panel.side-panel-open.stretched #header .containe
 		}
 	}
 
-	a.more-link{
+	a.more-link {
 		font-size: 21px;
+	}
+
+	.design-link {
+		font-weight: 300 !important;
+		color: #f47322;
+		border-bottom: none;
 	}
 
 	.about-body-link {
