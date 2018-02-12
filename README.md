@@ -10,22 +10,14 @@ Existing client Barrett Homes needed a new single page website in order to promo
 
 http://augusta-rise.herokuapp.com/index.html
 
---- Key functionality ---
+--- Key requirements ---
 
-~ Excellent UI/UX incl. smooth flow from content to call to action.
-~ Mosaic image gallery incl. animation to enhance visual impact and information displayed on mouse-over.
-~ Contact form integration with email notification service.
+~ Smooth UI/UX incl. flow from content to call to action. ~ Mosaic image gallery incl. animation to enhance visual impact and information displayed on mouse-over. ~ Contact form integration with email notification service.
 
 --- Technology ---
 
-~ HTML 
-~ CSS / Flexbox
-~ Bootstrap 
-~ JavaScript 
-~ jQuery
+HTML ~ CSS / Flexbox ~ Bootstrap  ~ JavaScript  ~ jQuery
 
 --- Ideas for enhancement ---
 
-~ The addition of a blog could be useful, in particular for SEO.
-~ Update integration of form with another service that includes a database and performance metrics.
-~ Additional section to display links to construction companies and information on their specific listings.
+~ The addition of a blog could be useful, in particular for SEO. ~ Update integration of form with another service that includes a database and performance metrics. ~ Additional section to display links to construction companies and information on their specific listings.
