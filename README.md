@@ -14,7 +14,7 @@ http://augusta-rise.herokuapp.com/index.html
 
 - TBA
 
---- Key requirements ---
+###### Key requirements
 
 ~ Smooth UI/UX incl. flow from content to call to action. ~ Mosaic image gallery incl. animation to enhance visual impact and information displayed on mouse-over. ~ Contact form integration with email notification service.
 
